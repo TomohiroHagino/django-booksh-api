@@ -1,6 +1,8 @@
 .venv
 django_project/.env
 db.sqlite3
+static
+staticfiles
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
